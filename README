@@ -133,10 +133,6 @@ DIRECTIVES
         default is off.
         any variable value except "off" interpreted as True.
 
-    testcookie_port_in_redirect
-        Keep server port in redirect (on|off)
-        default is off.
-
 
 INSTALLATION
 
@@ -275,7 +271,7 @@ SUPPORT THE PROJECT
 
 COPYRIGHT & LICENSE
 
-    Copyright (C) 2011-2017 Eldar Zaitov (kyprizel@gmail.com).
+    Copyright (C) 2011-2015 Eldar Zaitov (kyprizel@gmail.com).
 
     All rights reserved.
 
